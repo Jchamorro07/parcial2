@@ -1,0 +1,52 @@
+﻿  ConexionBD.cpp
+  Estudiantes.cpp
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(36,31): error C2440: '=': no se puede realizar la conversión de 'std::string' a 'int'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(36,44): message : No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(47,23): error C2440: 'return': no se puede realizar la conversión de 'int' a 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(47,23): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(61,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(66,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(68,39): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(89,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(91,212): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(93,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(112,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(114,171): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(120,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(143,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(151,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+  main.cpp
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(36,31): error C2440: '=': no se puede realizar la conversión de 'std::string' a 'int'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(36,44): message : No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(47,23): error C2440: 'return': no se puede realizar la conversión de 'int' a 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(47,23): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(61,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(66,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(68,39): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(89,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(91,212): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(93,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(112,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(114,171): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(120,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(143,10): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\Estudiantes.h(151,30): error C2039: "getconectar": no es un miembro de "ConexionBD"
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\ConexionBD.h(5): message : vea la declaración de 'ConexionBD'
+C:\Users\benja\OneDrive\Escritorio\parcial 2\mysql_c\mysql_c\main.h(40,19): error C3861: 'estudiantes': no se encontró el identificador
